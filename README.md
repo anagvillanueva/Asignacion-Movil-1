@@ -1,4 +1,8 @@
-# proyecto
+# Asignacion 1 
+- Ana Fernanda Gutiérrez Villanueva
+- Emilio Jesús Peñaloza Velasco
+- Rafael Rojas Madrigal 
+
 
 A new Flutter project.
 
